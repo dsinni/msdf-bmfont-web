@@ -18,6 +18,7 @@ This tool uses a newer version of `msdfgen`, and to use them with A-Frame it is 
 <a-text value="你好，世界"
         font="custom-msdf.json"
         color="#33C3F0"
+        shader="msdf"
         negate="true">
 </a-text>
 ```
